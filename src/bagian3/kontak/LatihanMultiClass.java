@@ -2,7 +2,7 @@
 package bagian3.kontak;
 
 public class LatihanMultiClass {
- 
+ // Latihan Multi-Class Buku Kontak
     public static void main(String[] args) {
         BukuKontak buku = new BukuKontak();
 
